@@ -1,0 +1,324 @@
+{
+    "jobTitle": "Microsoft AI Engineer",
+    "company": "Microsoft",
+    "location": "Redmond, WA",
+    "overallScore": 86,
+    "sections": {
+        "jdOverview": {
+            "title": "JD Overview",
+            "jobTitle": "Microsoft AI Engineer",
+            "location": "Redmond, WA / Hybrid",
+            "workModel": "Full-time",
+            "seniority": "Senior",
+            "primaryFocus": [
+                "AI/ML model development",
+                "Azure AI Services",
+                "Machine Learning Operations",
+                "Deep Learning frameworks"
+            ],
+            "secondaryFocus": [
+                "Cloud architecture",
+                "Data engineering"
+            ],
+            "experience": [
+                "5+ years (AI/ML)",
+                "3+ years Azure preferred"
+            ],
+            "requirements": [
+                {
+                    "area": "Experience",
+                    "requirement": "AI/ML Engineering - 5+ yrs",
+                    "criticality": "Must-Have",
+                    "notes": "Production ML systems (2+)"
+                },
+                {
+                    "area": "Implementation",
+                    "requirement": "Multiple ML projects end-to-end",
+                    "criticality": "Must-Have",
+                    "notes": "MLOps / Model deployment"
+                },
+                {
+                    "area": "Platform",
+                    "requirement": "Azure (Cloud preferred)",
+                    "criticality": "Must-Have",
+                    "notes": "AWS/GCP acceptable"
+                },
+                {
+                    "area": "Technologies",
+                    "requirement": "Python, TensorFlow, PyTorch",
+                    "criticality": "Must-Have",
+                    "notes": "Deep learning expertise"
+                },
+                {
+                    "area": "Integrations",
+                    "requirement": "Azure AI Services, APIs",
+                    "criticality": "Must-Have",
+                    "notes": "REST APIs, microservices"
+                },
+                {
+                    "area": "Data Skills",
+                    "requirement": "Data preprocessing, feature engineering",
+                    "criticality": "Nice-to-Have",
+                    "notes": "SQL, data pipelines"
+                },
+                {
+                    "area": "Soft Skills",
+                    "requirement": "Collaboration, documentation",
+                    "criticality": "Must-Have",
+                    "notes": "Cross-functional teams"
+                },
+                {
+                    "area": "Certifications",
+                    "requirement": "Azure AI Engineer Associate",
+                    "criticality": "Nice-to-Have",
+                    "notes": "Not mandatory"
+                }
+            ]
+        },
+        "jobRequirements": {
+            "title": "Job Requirements",
+            "items": [
+                {
+                    "requirement": "Bachelor's degree in Computer Science or related field",
+                    "score": 85,
+                    "status": "Met"
+                },
+                {
+                    "requirement": "5+ years of AI/ML engineering experience",
+                    "score": 90,
+                    "status": "Exceeded"
+                },
+                {
+                    "requirement": "Advanced Python programming skills",
+                    "score": 95,
+                    "status": "Exceeded"
+                },
+                {
+                    "requirement": "Experience with Azure ML and AI services",
+                    "score": 75,
+                    "status": "Met"
+                },
+                {
+                    "requirement": "Deep learning frameworks (TensorFlow, PyTorch)",
+                    "score": 80,
+                    "status": "Met"
+                },
+                {
+                    "requirement": "Strong communication and collaboration skills",
+                    "score": 88,
+                    "status": "Met"
+                }
+            ]
+        },
+        "technicalSkills": {
+            "title": "AI/ML Technologies & Frameworks (Target)",
+            "modules": [
+                {
+                    "module": "Machine Learning",
+                    "depthExpected": "Expert",
+                    "deliverables": "ML models, training pipelines",
+                    "area": "Supervised/Unsupervised learning"
+                },
+                {
+                    "module": "Deep Learning",
+                    "depthExpected": "Expert",
+                    "deliverables": "Neural networks, model architectures",
+                    "area": "CNN, RNN, Transformers"
+                },
+                {
+                    "module": "Azure AI Services",
+                    "depthExpected": "Advanced",
+                    "deliverables": "AI service integrations, APIs",
+                    "area": "Cognitive Services, OpenAI"
+                },
+                {
+                    "module": "MLOps",
+                    "depthExpected": "Advanced",
+                    "deliverables": "CI/CD pipelines, monitoring",
+                    "area": "Model deployment, versioning"
+                },
+                {
+                    "module": "Data Engineering",
+                    "depthExpected": "Advanced",
+                    "deliverables": "Data pipelines, preprocessing",
+                    "area": "Feature engineering, ETL"
+                }
+            ]
+        },
+        "businessRequirements": {
+            "title": "Cloud Platforms & Deployment",
+            "categories": [
+                {
+                    "title": "Primary",
+                    "items": [
+                        "Microsoft Azure (public/private cloud)"
+                    ]
+                },
+                {
+                    "title": "Secondary",
+                    "items": [
+                        "AWS, Google Cloud Platform"
+                    ]
+                },
+                {
+                    "title": "Tech Stack",
+                    "items": [
+                        "Python, TensorFlow, PyTorch, Azure ML, Docker"
+                    ]
+                },
+                {
+                    "title": "Methodology",
+                    "items": [
+                        "Agile/Scrum, MLOps, DevOps practices"
+                    ]
+                },
+                {
+                    "title": "Delivery Model",
+                    "items": [
+                        "Research → Development → Deployment → Monitoring"
+                    ]
+                },
+                {
+                    "title": "Work Model",
+                    "items": [
+                        "Hybrid; 3 days on-site in Redmond"
+                    ]
+                }
+            ]
+        },
+        "integrationRequirements": {
+            "title": "Integration Requirements",
+            "integrations": [
+                {
+                    "withModule": "Azure OpenAI",
+                    "interfaceType": "REST API",
+                    "technology": "Python SDK, REST APIs",
+                    "notes": "GPT models, embeddings integration"
+                },
+                {
+                    "withModule": "Azure ML",
+                    "interfaceType": "SDK/API",
+                    "technology": "Azure ML SDK, MLflow",
+                    "notes": "Model training & deployment"
+                },
+                {
+                    "withModule": "Data Sources",
+                    "interfaceType": "Connectors",
+                    "technology": "Azure Data Factory, Synapse",
+                    "notes": "Data ingestion & preprocessing"
+                },
+                {
+                    "withModule": "Monitoring",
+                    "interfaceType": "Telemetry",
+                    "technology": "Application Insights, Prometheus",
+                    "notes": "Model performance monitoring"
+                }
+            ]
+        },
+        "projectScope": {
+            "title": "ML Project Lifecycle (Microsoft AI)",
+            "phases": [
+                {
+                    "phase": "Research",
+                    "focus": "Problem definition, Literature review",
+                    "expectedOutputs": "Research docs, Feasibility study"
+                },
+                {
+                    "phase": "Design",
+                    "focus": "Architecture, Data strategy",
+                    "expectedOutputs": "System design, Data pipeline specs"
+                },
+                {
+                    "phase": "Develop",
+                    "focus": "Model training, Feature engineering",
+                    "expectedOutputs": "Trained models, Evaluation metrics"
+                },
+                {
+                    "phase": "Deploy",
+                    "focus": "Production deployment, Monitoring",
+                    "expectedOutputs": "Deployment pipeline, Monitoring setup"
+                },
+                {
+                    "phase": "Optimize",
+                    "focus": "Performance tuning, Model updates",
+                    "expectedOutputs": "Performance reports, Updated models"
+                }
+            ]
+        },
+        "workExperience": {
+            "title": "AI/ML Development Expectations",
+            "wricefTypes": [
+                {
+                    "type": "Models",
+                    "examples": "Classification, Regression, NLP models",
+                    "depthExpected": "Advanced"
+                },
+                {
+                    "type": "APIs",
+                    "examples": "REST APIs, GraphQL, microservices",
+                    "depthExpected": "Advanced"
+                },
+                {
+                    "type": "Pipelines",
+                    "examples": "Data pipelines, ML training pipelines",
+                    "depthExpected": "Intermediate"
+                },
+                {
+                    "type": "Optimization",
+                    "examples": "Model tuning, Performance optimization",
+                    "depthExpected": "Intermediate"
+                }
+            ]
+        },
+        "jobSkills": {
+            "title": "Soft Skills & Other",
+            "categories": [
+                {
+                    "category": "Project Management",
+                    "skills": [
+                        "Lead AI projects, stakeholder demos, sprint planning"
+                    ]
+                },
+                {
+                    "category": "Documentation",
+                    "skills": [
+                        "Technical specs, model documentation, API docs"
+                    ]
+                },
+                {
+                    "category": "Communication",
+                    "skills": [
+                        "Cross-functional collaboration, technical presentations"
+                    ]
+                },
+                {
+                    "category": "Certifications",
+                    "skills": [
+                        "Azure AI Engineer Associate, AWS ML Specialty"
+                    ]
+                }
+            ]
+        },
+        "processingQuestions": {
+            "title": "Screening Questions",
+            "questions": [
+                "Walk us through an end-to-end ML project you led from research to production. What were the biggest challenges?",
+                "How do you approach model selection and hyperparameter tuning for deep learning projects?",
+                "Describe a complex AI system you built that integrated multiple Azure services. What was your architecture?"
+            ]
+        },
+        "keywords": {
+            "title": "Keywords & Boolean Strings",
+            "tags": [
+                "Machine Learning",
+                "Deep Learning",
+                "Azure AI",
+                "TensorFlow",
+                "PyTorch",
+                "MLOps",
+                "Python"
+            ],
+            "booleanSample": "(\"Machine Learning\" OR \"AI Engineer\" OR \"ML Engineer\") AND (Python OR TensorFlow OR PyTorch) AND (Azure OR \"Azure ML\" OR \"Azure AI\") AND (\"Deep Learning\" OR \"Neural Networks\") AND (MLOps OR \"Model Deployment\")"
+        }
+    }
+}
