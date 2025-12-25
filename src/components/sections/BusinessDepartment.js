@@ -3,6 +3,7 @@ import React from 'react';
 const BusinessDepartment = ({ data }) => {
   return (
     <div>
+        {/* <Header jobData={jobData} /> */}
       <h2 className="text-xl font-semibold text-gray-900 mb-6 flex items-center">
         <span className="mr-2">🏢</span>
         {data.title}

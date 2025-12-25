@@ -65,7 +65,7 @@ const Dashboard = () => {
       />
       
       <div className="flex-1 flex flex-col">
-        <Header jobData={jobData} />
+        {activeSection === 'jdOverview' && <Header jobData={jobData} />}
         
         <main className="flex-1 p-6">
           <div className="bg-white rounded shadow-sm p-6">
